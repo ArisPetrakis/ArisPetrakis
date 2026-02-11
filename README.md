@@ -7,7 +7,6 @@
 💼 Business & Tech Hybrid Professional  
 💻 COBOL / IBM Z / Legacy Systems  
 📈 Google Ads / Lead Generation  
-🚁 Drone Services / Mapping / Inspection  
 
 I combine **enterprise systems** with **modern business strategy** to build scalable solutions.
 
@@ -38,15 +37,6 @@ I combine **enterprise systems** with **modern business strategy** to build scal
 - Campaign Optimization Tools
 - Reporting Dashboards
 
-### 🚀 Innovation / Drones
-- 3D Mapping
-- Infrastructure Inspection
-- Smart Survey Workflows
-
 </details>
 
 ---
-
-## 👀 Profile Views
-
-![Visitors](https://komarev.com/ghpvc/?username=ArisPetrakis&color=blue)
