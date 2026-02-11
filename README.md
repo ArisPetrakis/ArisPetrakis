@@ -47,22 +47,6 @@ I combine **enterprise systems** with **modern business strategy** to build scal
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArisPetrakis&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArisPetrakis&layout=compact)
-
----
-
-## 🌐 Connect With Me
-
-[![Website](https://img.shields.io/badge/Website-enexp.gr-blue)](https://www.enexp.gr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aris_Petrakis-blue)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your@email.com)
-
----
-
 ## 👀 Profile Views
 
 ![Visitors](https://komarev.com/ghpvc/?username=ArisPetrakis&color=blue)
