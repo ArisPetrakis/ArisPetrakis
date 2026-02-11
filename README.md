@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=COBOL+%7C+Mainframe+Developer;Business+Owner+%7C+Digital+Marketing;Legacy+Systems+%7C+Modern+Thinking;Innovation;Always+Learning+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=COBOL+%7C+Mainframe+Developer;Digital+Marketing;Legacy+Systems+%7C+Modern+Thinking;Innovation;Always+Learning+%F0%9F%9A%80)
 
 ---
 
