@@ -28,11 +28,6 @@ I combine **enterprise systems** with **modern business strategy** to build scal
 
 ---
 
-## 📂 Featured Projects
-
-<details>
-<summary>📁 Click to Expand</summary>
-
 ### 🏦 Banking / Legacy
 - Customer Registry System
 - Batch Billing Engine
